@@ -7,8 +7,8 @@ category: info
 submissionType: IETF
 
 ipr: trust200902
-area: Routing area
-workgroup: rtgwg
+area: "Routing"
+workgroup: "Routing Area Working Group"
 keyword: Internet-Draft
 
 coding: us-ascii
