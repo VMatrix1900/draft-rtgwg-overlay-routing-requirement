@@ -1,7 +1,7 @@
 ---
 title: Scenarios and Challenges of Overlay Routing for SD-WAN
 abbrev: Overlay Routing for SD-WAN
-docname: draft-sheng-rtgwg-overlay-routing-requirement-00
+docname: draft-sheng-rtgwg-overlay-routing-requirement-latest
 date:
 category: info
 submissionType: IETF
