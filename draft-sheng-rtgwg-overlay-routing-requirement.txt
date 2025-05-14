@@ -5,9 +5,9 @@
 Routing Area Working Group                                      C. Sheng
 Internet-Draft                                                    H. Shi
 Intended status: Informational                       Huawei Technologies
-Expires: 16 August 2025                                        L. Dunbar
+Expires: 15 November 2025                                      L. Dunbar
                                                                Futurewei
-                                                        12 February 2025
+                                                             14 May 2025
 
 
          Scenarios and Challenges of Overlay Routing for SD-WAN
@@ -48,7 +48,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 16 August 2025.
+   This Internet-Draft will expire on 15 November 2025.
 
 Copyright Notice
 
@@ -326,9 +326,9 @@ Table of Contents
               Dunbar, L., Hares, S., Majumdar, K., Raszuk, R., and V.
               Kasiviswanathan, "BGP UPDATE for SD-WAN Edge Discovery",
               Work in Progress, Internet-Draft, draft-ietf-idr-sdwan-
-              edge-discovery-21, 19 January 2025,
+              edge-discovery-22, 17 February 2025,
               <https://datatracker.ietf.org/doc/html/draft-ietf-idr-
-              sdwan-edge-discovery-21>.
+              sdwan-edge-discovery-22>.
 
 Authors' Addresses
 
