@@ -1,7 +1,7 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-05-13T02:01:48.490607+00:00",
-  "repo": "VMatrix1900/draft-rtgwg-overlay-routing-requirement",
+  "timestamp": "2025-05-15T01:59:02.458664+00:00",
+  "repo": "jie-dong/draft-rtgwg-overlay-routing-requirement",
   "labels": [
     {
       "name": "bug",
@@ -60,10 +60,10 @@
       "number": 1,
       "id": "PR_kwDOKTWDYs6K5SUu",
       "title": "upstream merge template repository",
-      "url": "https://github.com/VMatrix1900/draft-rtgwg-overlay-routing-requirement/pull/1",
+      "url": "https://github.com/jie-dong/draft-rtgwg-overlay-routing-requirement/pull/1",
       "state": "MERGED",
       "author": "VMatrix1900",
-      "authorAssociation": "OWNER",
+      "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [
         "template_sync"
@@ -71,10 +71,10 @@
       "body": "Merge https://github.com/martinthomson/internet-draft-template ea87c4f",
       "createdAt": "2025-02-12T03:39:51Z",
       "updatedAt": "2025-02-12T03:40:26Z",
-      "baseRepository": "VMatrix1900/draft-rtgwg-overlay-routing-requirement",
+      "baseRepository": "jie-dong/draft-rtgwg-overlay-routing-requirement",
       "baseRefName": "main",
       "baseRefOid": "29b31a62637bf44adf9b71a9435fc70d47ca5242",
-      "headRepository": "VMatrix1900/draft-rtgwg-overlay-routing-requirement",
+      "headRepository": "jie-dong/draft-rtgwg-overlay-routing-requirement",
       "headRefName": "chore/template_sync_ea87c4f",
       "headRefOid": "a7b4ab0fd2fceffc685192f872700072e4dc84fc",
       "closedAt": "2025-02-12T03:40:26Z",
@@ -90,27 +90,29 @@
       "number": 2,
       "id": "PR_kwDOKTWDYs6RjhlZ",
       "title": "upstream merge template repository",
-      "url": "https://github.com/VMatrix1900/draft-rtgwg-overlay-routing-requirement/pull/2",
-      "state": "OPEN",
+      "url": "https://github.com/jie-dong/draft-rtgwg-overlay-routing-requirement/pull/2",
+      "state": "MERGED",
       "author": "VMatrix1900",
-      "authorAssociation": "OWNER",
+      "authorAssociation": "COLLABORATOR",
       "assignees": [],
       "labels": [
         "template_sync"
       ],
       "body": "Merge https://github.com/martinthomson/internet-draft-template 9bbaf3f",
       "createdAt": "2025-04-07T01:20:12Z",
-      "updatedAt": "2025-04-07T01:20:13Z",
-      "baseRepository": "VMatrix1900/draft-rtgwg-overlay-routing-requirement",
+      "updatedAt": "2025-05-14T02:17:44Z",
+      "baseRepository": "jie-dong/draft-rtgwg-overlay-routing-requirement",
       "baseRefName": "main",
       "baseRefOid": "5276fc41aedb709c04b285fcc840e4a65331b67f",
-      "headRepository": "VMatrix1900/draft-rtgwg-overlay-routing-requirement",
+      "headRepository": "jie-dong/draft-rtgwg-overlay-routing-requirement",
       "headRefName": "chore/template_sync_9bbaf3f",
       "headRefOid": "c230a3ec801b7c55be66bf3f77de660f7b5fbf51",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-05-14T02:17:44Z",
+      "mergedAt": "2025-05-14T02:17:44Z",
+      "mergedBy": "VMatrix1900",
+      "mergeCommit": {
+        "oid": "447d661793c39be1d84f4abcc3c908a49eeb5838"
+      },
       "comments": [],
       "reviews": []
     }
